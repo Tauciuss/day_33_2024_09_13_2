@@ -1,0 +1,30 @@
+.search-area{
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 5px;
+    display: flex;
+    background-color: #F6F6F7;
+    height: 32px;
+}
+
+h2{
+    font-size: 30px;
+    color: gray;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+    padding-top: 13px;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    background-color: #F6F6F7;
+    border: none;
+    border-radius: 10px;
+}
+
+input::placeholder{
+    color:gray;
+}

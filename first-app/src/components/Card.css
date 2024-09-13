@@ -1,0 +1,12 @@
+.card-area{
+    background-color: #F6F6F7;
+    border-radius: 10px;
+    padding: 10px;
+}
+.card_title{
+    color: black;
+}
+
+.card_text{
+    color: black;
+}

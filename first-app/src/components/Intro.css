@@ -1,0 +1,32 @@
+.intro-area{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 10px 20px 10px;
+}
+
+.text-area p{
+    color: black;
+    line-height: 0;
+    font-size: 20px;
+}
+
+.text-area h2{
+    color: black;
+    line-height: 5px;
+    font-size: 50px;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.big-logo{
+    margin: 0;
+    padding: 0;
+    height: 300px;
+}
+
+.text-area{
+    margin-top:70px
+}

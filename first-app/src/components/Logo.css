@@ -1,0 +1,14 @@
+.logo-area{
+    display: flex;
+}
+.smallLogo{
+    width: 50px;
+    margin-top: -10px;
+}
+
+.logo-name{
+    padding: 0;
+    font-size: 18px;
+    color: black;
+    margin-top: 15px;
+}
